@@ -50,4 +50,6 @@ ul li a:hover{
     border-radius: 40px;
     border: none;
     background: rgba(0,191,255,1);
+}.box .btn:hover{
+    opacity: 0.9;
 }
